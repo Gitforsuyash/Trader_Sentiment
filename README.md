@@ -10,7 +10,7 @@ This repo contains an analysis of trader performance vs the Bitcoin Fear & Greed
 
 ## How to run
 1. Upload `historical_data.csv` and `fear_greed_index.csv` to `/mnt/data` (or edit the notebook paths).
-2. Open `analysis.ipynb` and run cells top-to-bottom in Google Colab or a local Jupyter environment.
+2. Open `py.ipynb` and run cells top-to-bottom in Google Colab or a local Jupyter environment.
 3. Results and CSVs will be saved to `/mnt/data/trader_sentiment_outputs`.
 
 ## Key findings (brief)
